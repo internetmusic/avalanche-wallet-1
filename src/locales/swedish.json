@@ -5,15 +5,15 @@
     "address": "Adress",
     "add_pk": "Lägg till Privat Nyckel",
     "home": {
-        "desc": "Avalanche Wallet är en enkel, säker, icke-depåplånbok för lagring av Avalanche-tillgångar.",
+        "desc": "NIM Wallet är en enkel, säker, icke-depåplånbok för lagring av NIM-tillgångar.",
         "access": {
             "title": "Välkommen tillbaka!",
-            "desc": "'Få tillgång' till din befintliga Avalanche-plånbok här.",
+            "desc": "'Få tillgång' till din befintliga NIM-plånbok här.",
             "submit": "Få tillgång till Wallet"
         },
         "create": {
             "title": "Ny i Avalanche Wallet?",
-            "desc": "\"Skapa\" en ny plånbok för att skicka, ta emot och byta Avalanche-tillgångar.",
+            "desc": "\"Skapa\" en ny plånbok för att skicka, ta emot och byta NIM-tillgångar.",
             "submit": "Skapa ny Wallet"
         }
     },
@@ -58,14 +58,14 @@
         }
     },
     "create": {
-        "generate": "Skapa en ny nyckelmening för att ställa in din Avalanche-plånbok.",
+        "generate": "Skapa en ny nyckelmening för att ställa in din NIM-plånbok.",
         "but_have": "Har du redan en plånbok?",
         "submit": "Skapa Nyckelmening",
         "cancel": "Avbryt",
         "mnemonic_title": "Denna är din nyckelmening.",
-        "mnemonic_desc": "Använd dessa 24 ord i följd för att återställa din Avalanche-plånbok",
+        "mnemonic_desc": "Använd dessa 24 ord i följd för att återställa din NIM-plånbok",
         "attention": "Observera!",
-        "warning": "Förvara den här nyckelmeningen på en säker plats. Vem som helst med denna nyckelmening kan komma åt din Avalanche-plånbok. Det finns inget sätt att återställa förlorade nyckelmeningar.",
+        "warning": "Förvara den här nyckelmeningen på en säker plats. Vem som helst med denna nyckelmening kan komma åt din NIM-plånbok. Det finns inget sätt att återställa förlorade nyckelmeningar.",
         "confirm": "Jag skrev min nyckelmening i en säker plats.",
         "regenerate": "Återskapa",
         "success_title": "Grattis!",
@@ -78,7 +78,7 @@
         "error_word": "Den mnemotekniska meningen du matade som ord matchar inte med den nuvarande meningen."
     },
     "top": {
-        "title1": "Härledd Avalanche-plånbok adress",
+        "title1": "Härledd NIM-plånbok adress",
         "title2": "Balans",
         "title3": "Subnät",
         "title4": "Nätverk",
@@ -101,7 +101,7 @@
             "collectibles": "Samlingsföremål"
         },
         "address": {
-            "derived": "Härledd Avalanche-plånbok Adress",
+            "derived": "Härledd NIM-plånbok Adress",
             "desc": "Det här är din adress för att få medel. Din adress kommer att ändras efter varje insättning."
         }
     },

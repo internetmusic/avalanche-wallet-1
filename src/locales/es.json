@@ -5,15 +5,15 @@
     "address": "Dirección",
     "add_pk": "Agregar Llave Privada",
     "home": {
-        "desc": "La Wallet Avalanche es una billetera sencilla, segura y sin custodia para guardar activos Avalanche.",
+        "desc": "La Wallet NIM es una billetera sencilla, segura y sin custodia para guardar activos NIM.",
         "access": {
             "title": "¡Bienvenido de Vuelta!",
-            "desc": "\"Accede\" a tu wallet Avalanche existente aquí.",
+            "desc": "\"Accede\" a tu wallet NIM existente aquí.",
             "submit": "Acceder a la wallet"
         },
         "create": {
-            "title": "¿Es nuevo en Avalanche Wallet?",
-            "desc": "\"Crea\" una nueva wallet para enviar, recibir e intercambiar activos Avalanche.",
+            "title": "¿Es nuevo en NIM Wallet?",
+            "desc": "\"Crea\" una nueva wallet para enviar, recibir e intercambiar activos NIM.",
             "submit": "Crear Nueva Wallet"
         }
     },
@@ -58,12 +58,12 @@
         }
     },
     "create": {
-        "generate": "Genera una nueva frase clave para configurar tu wallet Avalanche.",
+        "generate": "Genera una nueva frase clave para configurar tu wallet NIM.",
         "but_have": "¿Ya tienes una billetera?",
         "submit": "Generar Frase Clave",
         "cancel": "Cancelar",
         "mnemonic_title": "Esta es tu frase clave.",
-        "mnemonic_desc": "Utiliza estas 24 palabras en orden secuencial para recuperar Wallet Avalanche",
+        "mnemonic_desc": "Utiliza estas 24 palabras en orden secuencial para recuperar Wallet NIM",
         "attention": "¡Atención!",
         "warning": "Guarda esta frase clave en un lugar seguro. Cualquier persona con esta frase clave puede acceder a tu Wallet Avalanche. No hay forma de recuperar frases clave perdidas.",
         "confirm": "Escribí mi frase clave en un lugar seguro.",
