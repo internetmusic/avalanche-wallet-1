@@ -32,7 +32,7 @@
                                     <div class="img_container">
                                         <img
                                             v-if="$root.theme === 'day'"
-                                            src="@/assets/diamond-secondary.png"
+                                            src="@/assets/diamond-primary.png"
                                             alt
                                         />
                                         <img
