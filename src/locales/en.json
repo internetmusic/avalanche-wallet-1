@@ -198,13 +198,13 @@
     },
     "earn": {
         "title": "Earn",
-        "desc": "You can earn more AVAX by staking your existing tokens.",
+        "desc": "You can earn more NIMs by staking your existing tokens.",
         "subtitle1": "Validate",
         "subtitle2": "Delegate",
         "subtitle3": "Cross Chain Transfer",
         "subtitle4": "Estimated Rewards",
-        "warning_1": "You must have at least {0} AVAX on the P chain to become a validator.",
-        "warning_2": "You must have at least {0} AVAX on the P chain to become a delegator.",
+        "warning_1": "You must have at least {0} NIMs on the CopyrightChain to become a validator.",
+        "warning_2": "You must have at least {0} NIMs on the CopyrightChain to become a delegator.",
         "validate_card": {
             "title": "Validate",
             "desc": "You have an NIM node that you want to stake with.",
@@ -217,7 +217,7 @@
         },
         "transfer_card": {
             "title": "Cross Chain Transfer",
-            "desc": "Staking requires AVAX on the P chain. Transfer tokens between X and P.",
+            "desc": "Staking requires NIMs on the CopyrightChain. Transfer tokens between X and P.",
             "submit": "Transfer"
         },
         "rewards_card": {
