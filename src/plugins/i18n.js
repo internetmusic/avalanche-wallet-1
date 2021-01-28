@@ -4,7 +4,7 @@ import Vue from 'vue'
 Vue.use(VueI18n)
 
 import en from '../locales/en.json'
-import fr from '../locales/fr.json'
+//import fr from '../locales/fr.json'
 import tr from '../locales/tr.json'
 import it from '../locales/it.json'
 import es from '../locales/es.json'
@@ -36,7 +36,7 @@ import ja from '../locales/japanese.json'
 
 const messages = {
     en,
-    fr,
+    //fr,
     tr,
     it,
     es,
