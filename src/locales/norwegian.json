@@ -5,15 +5,15 @@
     "address": "Adresse",
     "add_pk": "Legg til privat nøkkel",
     "home": {
-        "desc": "Avalanche Wallet er en enkel, sikker, forvaringsfri lommebok for lagring av Avalanche-aktiva.",
+        "desc": "NIM Wallet er en enkel, sikker, forvaringsfri lommebok for lagring av NIM-aktiva.",
         "access": {
             "title": "Velkommen tilbake!",
-            "desc": "‘Få tilgang’ til din eksisterende Avalanche-lommebok her.",
+            "desc": "‘Få tilgang’ til din eksisterende NIM-lommebok her.",
             "submit": "Få tilgang til lommebok"
         },
         "create": {
-            "title": "Ny hos Avalanche Wallet?",
-            "desc": "‘Lag’ en ny lommebok for å sende, motta og bytte Avalanche-aktiva.",
+            "title": "Ny hos NIM Wallet?",
+            "desc": "‘Lag’ en ny lommebok for å sende, motta og bytte NIM-aktiva.",
             "submit": "Lag ny lommebok"
         }
     },
@@ -65,7 +65,7 @@
         "mnemonic_title": "Dette er nøkkelfrasen din.",
         "mnemonic_desc": "Bruk disse 24 ordene i rekkefølge for å tilbakestille din Avalanche Wallet",
         "attention": "Se her!",
-        "warning": "Lagre denne nøkkelfrasen på et trygt sted. Alle som har denne nøkkelfrasen, har tilgang til din Avalanche Wallet. Det finnes ingen metode for å tilbakestille tapte nøkkelfraser.",
+        "warning": "Lagre denne nøkkelfrasen på et trygt sted. Alle som har denne nøkkelfrasen, har tilgang til din NIM Wallet. Det finnes ingen metode for å tilbakestille tapte nøkkelfraser.",
         "confirm": "Jeg skrev ned nøkkelfrasen min på et sikkert sted.",
         "regenerate": "Regenerer",
         "success_title": "Gratulerer!",
@@ -78,7 +78,7 @@
         "error_word": "Mnemonic-frasen du oppga for ord samsvarer ikke med den faktiske frasen."
     },
     "top": {
-        "title1": "Avledet Avalanche Wallet-adresse",
+        "title1": "Avledet NIM Wallet-adresse",
         "title2": "Saldo",
         "title3": "Undernett",
         "title4": "Nettverk",
@@ -86,7 +86,7 @@
         "nftempty": "Du har ikke samlet noen omsettelige polletter.",
         "locked": "Låst",
         "info2": "Jeg kjøpte mynter på polettsalg. Hvor er min AVAX?",
-        "info2_desc": "Denne lommeboken er koblet til Avalanche Everest-testnettverket. Kjøpet ditt vises i lommeboken etter lansering av Avalanche Mainnet.",
+        "info2_desc": "Denne lommeboken er koblet til NIM Everest-testnettverket. Kjøpet ditt vises i lommeboken etter lansering av NIM Mainnet.",
         "hover1": "Vis QR-adressekode",
         "hover2": "Skriv ut",
         "hover3": "Kopier",
@@ -101,7 +101,7 @@
             "collectibles": "Samleobjekter"
         },
         "address": {
-            "derived": "Avledet Avalanche Wallet-adresse",
+            "derived": "Avledet NIM Wallet-adresse",
             "desc": "Dette er din adresse for mottak av penger. Adressen din endres etter hvert innskudd."
         }
     },
@@ -186,7 +186,7 @@
         },
         "delegate_card": {
             "title": "Deleger",
-            "desc": "Du eier ikke en Avalanche-node, men du vil satse ved å bruke en annen node.",
+            "desc": "Du eier ikke en CopyrightChains-node, men du vil satse ved å bruke en annen node.",
             "submit": "Legg til delegator"
         },
         "transfer_card": {

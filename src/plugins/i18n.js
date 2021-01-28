@@ -4,7 +4,7 @@ import Vue from 'vue'
 Vue.use(VueI18n)
 
 import en from '../locales/en.json'
-//import fr from '../locales/fr.json'
+import fr from '../locales/fr.json'
 //import tr from '../locales/tr.json'
 //import it from '../locales/it.json'
 import es from '../locales/es.json'
@@ -13,10 +13,10 @@ import de from '../locales/de.json'
 //import ru from '../locales/ru.json'
 import zh_hant from '../locales/zh_hant.json'
 //import zh_hans from '../locales/zh_hans.json'
-import pt from '../locales/pt.json'
+//import pt from '../locales/pt.json'
 //import vn from '../locales/vn.json'
-import nl from '../locales/nl.json'
-import uk from '../locales/uk.json'
+//import nl from '../locales/nl.json'
+//import uk from '../locales/uk.json'
 //import ca from '../locales/ca.json'
 //import cs from '../locales/cs.json'
 //import af from '../locales/aafrikans.json'
@@ -26,7 +26,7 @@ import fi from '../locales/finnish.json'
 //import el from '../locales/greek.json'
 //import he from '../locales/hebrew.json'
 import hu from '../locales/hungarian.json'
-//import nb from '../locales/norwegian.json'
+import nb from '../locales/norwegian.json'
 //import pl from '../locales/polish.json'
 //import ro from '../locales/romanian.json'
 //import sr from '../locales/serbian.json'
@@ -36,7 +36,7 @@ import sv from '../locales/swedish.json'
 
 const messages = {
     en,
-    //fr,
+    fr,
     //tr,
     //it,
     es,
@@ -45,10 +45,10 @@ const messages = {
     //ru,
     //zh_hant,
     //zh_hans,
-    pt,
+    //pt,
     //vn,
-    nl,
-    uk,
+    //nl,
+    //uk,
     //ca,
     //cs,
     //af,
@@ -58,7 +58,7 @@ const messages = {
     //el,
     //he,
     hu,
-    //nb,
+    nb,
     //pl,
     //ro,
     //sr,
