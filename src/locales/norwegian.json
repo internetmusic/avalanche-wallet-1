@@ -58,18 +58,18 @@
         }
     },
     "create": {
-        "generate": "Generer en ny nøkkelfrase for å sette opp din Avalanche Wallet.",
+        "generate": "Generer en ny nøkkelfrase for å sette opp din NIM Wallet.",
         "but_have": "Har du allerede en lommebok?",
         "submit": "Generer nøkkelfrase",
         "cancel": "Avbryt",
         "mnemonic_title": "Dette er nøkkelfrasen din.",
-        "mnemonic_desc": "Bruk disse 24 ordene i rekkefølge for å tilbakestille din Avalanche Wallet",
+        "mnemonic_desc": "Bruk disse 24 ordene i rekkefølge for å tilbakestille din NIM Wallet",
         "attention": "Se her!",
         "warning": "Lagre denne nøkkelfrasen på et trygt sted. Alle som har denne nøkkelfrasen, har tilgang til din NIM Wallet. Det finnes ingen metode for å tilbakestille tapte nøkkelfraser.",
         "confirm": "Jeg skrev ned nøkkelfrasen min på et sikkert sted.",
         "regenerate": "Regenerer",
         "success_title": "Gratulerer!",
-        "success_desc": "Tiden er inne for å gå inn på din Avalanche Wallet.",
+        "success_desc": "Tiden er inne for å gå inn på din NIM Wallet.",
         "success_submit": "Få tilgang til lommebok",
         "verify": "Bekreft",
         "verifytitle": "Verifiser Mnemonic",
@@ -181,7 +181,7 @@
         "warning_2": "Du må ha minst {0} AVAX på P-kjedet for å bli en delegator.",
         "validate_card": {
             "title": "Valider",
-            "desc": "Du har en Avalanche-node som du vil satse med.",
+            "desc": "Du har en NIM-node som du vil satse med.",
             "submit": "Legg til validator"
         },
         "delegate_card": {
